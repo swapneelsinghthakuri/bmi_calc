@@ -10,9 +10,6 @@ Welcome to the Swapneel BMI Calculator! This Python program helps users calculat
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-- [Acknowledgements](#acknowledgements)
 
 ## Features
 
@@ -38,14 +35,3 @@ Make sure you have the following installed on your machine:
 ## Usage
 
 Follow the on-screen prompts to enter your weight and height. The program will then calculate your BMI and categorize it into different weight categories.
-
-## Contributing
-
-If you'd like to contribute to this project, please follow these guidelines:
-
-1. Fork the repository.
-2. Create a new branch (`git checkout -b feature/your-feature-name`).
-3. Commit your changes (`git commit -m 'Add some feature'`).
-4. Push to the branch (`git push origin feature/your-feature-name`).
-5. Open a pull request.
-
